@@ -69,7 +69,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    height: 190px;
+    height: 90px;
     justify-content: center;
     align-items: center;
 }
