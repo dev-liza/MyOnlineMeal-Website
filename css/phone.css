@@ -15,7 +15,7 @@
 }
 
 #home::before{
-    height: 480px; 
+    height: 0px; 
 }
 
 #home p{
