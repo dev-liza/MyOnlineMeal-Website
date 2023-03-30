@@ -67,11 +67,12 @@ html{
     background-color: white;
 }
 #home{
-    display: flex;
+   display: flex;
     flex-direction: column;
-    height: 90px;
+    height: 0px;
     justify-content: center;
     align-items: center;
+    padding-top: 50px;
 }
 
 #home::before{ 
